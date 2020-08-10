@@ -9,3 +9,4 @@ Por fim foram criados dois datasets, **geral_unidade.csv** e **geral_kg.csv** qu
 
 
 Os datasets se encontram dentro da pasta Limpeza de dados.
+Como os nomes indicam o primeiro contem produtos que são vendidos com base em suas unidades individuais (sendo elas maços, cabeça, unidade ou saco) e o segundo é composto por produtos vendidos pelo seu peso em quilogramas.
